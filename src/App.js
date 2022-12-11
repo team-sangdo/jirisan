@@ -14,7 +14,9 @@ function App() {
         <li>4</li>
         <li>1</li>
         <li>1</li>
-        <li>1</li>
+        <li>2</li>
+        <li>12</li>
+        <li>12</li>
         <li>1</li>
       </ol>
     </div>
