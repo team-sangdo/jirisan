@@ -7,6 +7,16 @@ function App() {
       <p>
         안녕하세요 한준호 작업물 입니다
       </p>
+      <ol>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+      </ol>
     </div>
   );
 }
