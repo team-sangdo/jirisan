@@ -15,7 +15,7 @@ function App() {
         <li>1</li>
         <li>1</li>
         <li>2</li>
-        <li>12</li>
+        <li>asdfasdfasdf12</li>
         <li>12</li>
         <li>제발</li>
       </ol>
